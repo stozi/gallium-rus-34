@@ -49,11 +49,11 @@ Hybrid ctrl/fn layer for alpha layer. The positions of puncts/Ru alphas (and som
 ctb ctl L   ctc ctv   ctz cty cto ctu @
                                       Ё
 
-ctn ctr ctt cts ct+   ctp ;:  cta () cti
+ctn ctr ctt cts ct+   ctp ;:  cta ()  cti
                           X       Э
 
-ctq ctx ^   ctw ct-   =+  ctf the  –—   !
-                      Ъ            -_   ?
+ctq ctx ^   ctw ct-   =+  ctf the –—  !
+                      Ъ           -_  ?
 
 null layer2/enter  shift/space alt/del   
 ```
