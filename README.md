@@ -34,11 +34,11 @@ null layer0/enter  shift/space alt/del
 ```
 
 ```
-b   l   d   c   v     z   y   o   u   -_
+b   l   d   c   v     z   y   o   u   ,/
 
 n   r   t   s   g     p   h   a   e   i
 
-q   x   m   w   j     k   f   '"  ,/  .?
+q   x   m   w   j     k   f   '"  -_  .?
 
 layer0 layer3/enter  shift/space alt/bkspc   
 ```
@@ -46,14 +46,14 @@ layer0 layer3/enter  shift/space alt/bkspc
 Hybrid ctrl/fn layer for alpha layer. The positions of puncts/Ru alphas (and some handy puncts for Ru) are influenced by comfort and which letters are seldom used with ctrl. ^ is compose, L switch lang.
 
 ```
-ctp ctl ^   L   ctv   ctz =+  cto ctu –—
-                          Ъ           -_
+ctb ctl L   ctc ctv   ctz cty cto ctu @
+                                      Ё
 
-ctn ctr ctt cts ctw   cty ;:  ()  cti cta
-                          X   Э
+ctn ctr ctt cts ct+   ctp ;:  cta () cti
+                          X       Э
 
-ctq ct- ct+ ctc ctx   ctb ctf the @   !
-                                  Ё   ?
+ctq ctx ^   ctw ct-   =+  ctf the  –—   !
+                      Ъ            -_   ?
 
 null layer2/enter  shift/space alt/del   
 ```
