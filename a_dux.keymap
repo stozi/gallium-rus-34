@@ -67,18 +67,18 @@ macros {
 		};
 		alfa {
 			bindings = <
-			&kp Q     &kp W     &kp E     &kp R     &kp T     &kp Y     &kp U     &kp I     &kp O     &kp P
+			&kp Q     &kp W     &kp E     &kp R     &kp T     &kp Y     &kp U     &kp I     &kp O     &kp DOT
 			&kp A     &kp S     &kp D     &kp F     &kp G     &kp H     &kp J     &kp K     &kp L     &kp SEMI
-			&kp Z     &kp X     &kp C     &kp V     &kp B     &kp N     &kp M     &kp COMMA &kp DOT   &kp SLASH
+			&kp Z     &kp X     &kp C     &kp V     &kp B     &kp N     &kp M     &kp COMMA &kp P     &kp SLASH
 				                 &trans   &lt 3 ENTER     &trans  &mt LALT BSPC
 			>;
 		};
 		alfacf {
 			bindings = <
-			&kp LC(Q) &kp LC(W) &kp PAUSE_BREAK &kp RCTRL &kp LC(T)   &kp LC(Y) &kp RBKT  &kp LC(I)  &kp LC(O)  &kp MINUS 
-			&kp LC(A) &kp LC(S) &kp LC(D)       &kp LC(F) &kp LC(G)   &kp LC(H) &kp LBKT  &kp SQT    &kp LC(L)  &kp LC(SEMI)
-			&kp LC(Z) &kp LC(P) &kp LC(RBKT)    &kp LC(V) &kp LC(B)   &kp LC(N) &kp LC(M) &ac_THE_LC &kp GRAVE  &kp LS(N7)
-				                               &trans   &trans    &trans  &kp DEL
+			&kp LC(Q) &kp LC(W) &kp RCTRL       &kp LC(R) &kp LC(T)      &kp LC(Y) &kp LC(U) &kp LC(I)  &kp LC(O)  &kp GRAVE
+			&kp LC(A) &kp LC(S) &kp LC(D)       &kp LC(F) &kp LC(RBKT)   &kp LC(H) &kp LBKT  &kp LC(K)  &kp SQT    &kp LC(SEMI)
+			&kp LC(Z) &kp LC(X) &kp PAUSE_BREAK &kp LC(V) &kp LC(P)      &kp RBKT  &kp LC(M) &ac_THE_LC &kp MINUS  &kp LS(N7)
+				                                  &trans   &trans    &trans  &kp DEL
 			>;
 		};
 
