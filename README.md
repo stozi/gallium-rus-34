@@ -41,7 +41,7 @@ n   r   t   s   g     p   h   a   e   i
 ф   ы   в   а   п     р   о   л   д   ж
 
 q   x   m   w   j     k   f   '"  -_  .?
-я   ч   с   м   и     т   ь   б   ю   .
+я   ч   с   м   и     т   ь   б   ю   .,
 
 layer0 layer3/enter  shift/space alt/bkspc   
 ```
