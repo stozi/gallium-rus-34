@@ -5,7 +5,7 @@ xkb_symbols "basic" {
 
     include "us(basic)"
 
-    name[Group1] = "Custom";
+    name[Group1] = "Gallium";
 
     key <TLDE> {[ at,        dollar    ]};
     key <AE01> {[ 1,         ampersand ]};
