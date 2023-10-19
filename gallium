@@ -15,13 +15,13 @@ xkb_symbols "basic" {
     key <AE11> {[ endash,    emdash    ]};
     key <AE12> {[ bracketright, braceright ]};
 
-    key <AD01> {[ p,         P         ]};
+    key <AD01> {[ b,         B         ]};
     key <AD02> {[ l,         L         ]};
     key <AD03> {[ d,         D         ]};
-    key <AD04> {[ g,         G         ]};
+    key <AD04> {[ c,         C         ]};
     key <AD05> {[ v,         V         ]};
     key <AD06> {[ z,         Z         ]};
-    key <AD07> {[ k,         K         ]};
+    key <AD07> {[ y,         Y         ]};
     key <AD08> {[ o,         O         ]};
     key <AD09> {[ u,         U         ]};
     key <AD10> {[ minus,    underscore ]};
@@ -32,20 +32,20 @@ xkb_symbols "basic" {
     key <AC02> {[ r,         R         ]};
     key <AC03> {[ t,         T         ]};
     key <AC04> {[ s,         S         ]};
-    key <AC05> {[ w,         W         ]};
-    key <AC06> {[ y,         Y         ]};
+    key <AC05> {[ g,         G         ]};
+    key <AC06> {[ p,         P         ]};
     key <AC07> {[ h,         H         ]};
-    key <AC08> {[ e,         E         ]};
-    key <AC09> {[ i,         I         ]};
-    key <AC10> {[ a,         A         ]};
+    key <AC08> {[ a,         A         ]};
+    key <AC09> {[ e,         E         ]};
+    key <AC10> {[ i,         I         ]};
     key <AC11> {[ parenleft, parenright ]};
 
     key <AB01> {[ q,         Q         ]};
-    key <AB02> {[ j,         J         ]};
+    key <AB02> {[ x,         X         ]};
     key <AB03> {[ m,         M         ]};
-    key <AB04> {[ c,         C         ]};
-    key <AB05> {[ x,         X         ]};
-    key <AB06> {[ b,         B         ]};
+    key <AB04> {[ w,         W         ]};
+    key <AB05> {[ j,         j         ]};
+    key <AB06> {[ k,         K         ]};
     key <AB07> {[ f,         F         ]};
     key <AB08> {[ apostrophe, quotedbl ]};
     key <AB09> {[ comma,     slash     ]};
