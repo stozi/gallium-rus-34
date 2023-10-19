@@ -44,7 +44,7 @@ xkb_symbols "basic" {
     key <AB02> {[ x,         X         ]};
     key <AB03> {[ m,         M         ]};
     key <AB04> {[ w,         W         ]};
-    key <AB05> {[ j,         j         ]};
+    key <AB05> {[ j,         J         ]};
     key <AB06> {[ k,         K         ]};
     key <AB07> {[ f,         F         ]};
     key <AB08> {[ apostrophe, quotedbl ]};
