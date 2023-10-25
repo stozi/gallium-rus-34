@@ -41,7 +41,7 @@ macros {
         bindings
         = <&macro_tap &kp D>
         , <&macro_release &kp LSHFT>
-        , <&macro_tap &kp J &kp K &kp SPACE>
+        , <&macro_tap &kp J &kp L &kp SPACE>
         ;
       };
         ac_BRAK_LC: ac_BRAK_LC {
